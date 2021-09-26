@@ -1,0 +1,10 @@
+E:\Zadace\15ArrayList\15KlasaArraylist\bin\Debug\15KlasaArraylist.exe.config
+E:\Zadace\15ArrayList\15KlasaArraylist\bin\Debug\15KlasaArraylist.exe
+E:\Zadace\15ArrayList\15KlasaArraylist\bin\Debug\15KlasaArraylist.pdb
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\15KlasaArraylist.csprojAssemblyReference.cache
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\_15KlasaArraylist.Form1.resources
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\_15KlasaArraylist.Properties.Resources.resources
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\15KlasaArraylist.csproj.GenerateResource.cache
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\15KlasaArraylist.csproj.CoreCompileInputs.cache
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\15KlasaArraylist.exe
+E:\Zadace\15ArrayList\15KlasaArraylist\obj\Debug\15KlasaArraylist.pdb
